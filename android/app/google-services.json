@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "499449728598",
+    "firebase_url": "https://messeger-8b7da.firebaseio.com",
+    "project_id": "messeger-8b7da",
+    "storage_bucket": "messeger-8b7da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499449728598:android:df3d21885a00f226",
+        "android_client_info": {
+          "package_name": "com.messeger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499449728598-7vi6rg06igpfu04p11aen5m6r4nvgu9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.messeger",
+            "certificate_hash": "b6314c46b9ea14edbe2b76cdfdaf8539fcb5f0c7"
+          }
+        },
+        {
+          "client_id": "499449728598-m01f5urd37t9qitejbkddoqa39rm0n9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFR8lNDeJAev4ZcLCKwR5igQk9cPLZmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499449728598-m01f5urd37t9qitejbkddoqa39rm0n9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
